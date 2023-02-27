@@ -1,5 +1,5 @@
 """
-    Sort using insertion sort algorithm
+    Sort an array using insertion sort algorithm
 """
 def insertion_sort(myArray):
     # Iterate each digit
