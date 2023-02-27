@@ -3,4 +3,4 @@ A personal study on algorithms
 
 ## Sorting
 
-* [[sort/insertion-sort|Insertion Sort]]
+* [Insertion Sort](sort/insertion-sort/readme.md)
