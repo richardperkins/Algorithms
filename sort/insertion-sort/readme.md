@@ -4,7 +4,7 @@ Time complexity: O(N<sup>2</sup>)
 
 Space: O(1)
 
-[insertion-sort.py]
+[[insertion-sort.py]]
 
 ```py
 """
