@@ -4,9 +4,11 @@ Time complexity: O(N<sup>2</sup>)
 
 Space: O(1)
 
+[insertion-sort.py]
+
 ```py
 """
-    Sort using insertion sort algorithm
+    Sort an array using insertion sort algorithm
 """
 def insertion_sort(myArray):
     # Iterate each digit
